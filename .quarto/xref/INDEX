@@ -1,0 +1,14 @@
+{
+  "index.qmd": {
+    "index.html": "4b501e23"
+  },
+  "01-intro.qmd": {
+    "01-intro.html": "64bb3a15"
+  },
+  "02-cv-identifiers.qmd": {
+    "02-cv-identifiers.html": "393bdafe"
+  },
+  "03-digital-identity.qmd": {
+    "03-digital-identity.html": "b82528e6"
+  }
+}

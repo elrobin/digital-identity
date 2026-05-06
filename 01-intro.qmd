@@ -1,0 +1,91 @@
+---
+title: "Introduction"
+---
+
+![](images/zen-techno.png){fig-align="center" width="506"}
+
+## Visibility vs. authorship
+
+::: callout-warning
+Our main work as academics is to conduct good and novel research and teach and mentor our students. Visibility is good to promote our contributions and make them valuable, and to promote our own careers, but [**should not be our main goal**]{.underline}.
+:::
+
+There is an important distinction between being the *author* of something and being *visible* as its author. In academia these two things do not automatically go together.
+
+Furthermore, there are different types of visibility:
+
+- **Visibility within academia.** You can publish extensively and still be invisible because of inconsistent name signatures, common name, or constant affiliation changes. [Be consistent and unique with your academic signature.]{.underline}
+
+  A common illustration: a researcher with an ambiguous name:
+
+  - Compound Spanish surnames with diacritics,
+
+  - A name shared with someone in another field
+
+  These cases tend to have publications scattered across multiple ghost identities in Scopus or Web of Science. Every paper lost to a ghost identity is a publication missing in your profile.
+
+![](images/many-names.png){fig-align="center" width="447"}
+
+- **Visibility beyond academia.** You can publish extensively and still be invisible beyond your own research community because you have no online presence, lack of open access or unique point from which to see your contribution.
+
+![](images/visible-invisible.png)
+
+A common illustration is a researcher with no Google Scholar profile or academic website:
+
+Every search in Google or Google Academic yielding no results or the wrong results will send a bad message to potential stakeholders (e.g., reviewers, colleagues, non-academics, etc.).
+
+> **The goal is not to be everywhere, but to be findable where it matters.**
+
+------------------------------------------------------------------------
+
+## Different career stages, different realities
+
+The effort and strategy needed for digital presence varies considerably:
+
+| Career stage | Key concern | Priority |
+|----|----|----|
+| PhD / Early postdoc | Getting attributed correctly from the start | ORCID, consistent signature |
+| Postdoc / applying for positions | Demonstrating independence and output | Website, Google Scholar, LinkedIn |
+| Permanent position (TU) | Consolidating identity, ANECA requirements | All the above + CVA narrative, all identifiers, project websites, teaching material |
+| Senior researcher (CU) | Leadership, transfer, public engagement | Selected publications, projects, Google Scholar, team website, projects, teaching material, outreach |
+
+::: callout-note
+The earlier you set this up, the less remedial work later. A consistent name signature from your very first paper saves hours of database deduplication down the line.
+:::
+
+The **time investment** also differs. A PhD student can set up ORCID and Google Scholar in an afternoon. A senior researcher managing a group, grants, and teaching has to be much more selective about where to invest time in outreach or needs assistance from technical staff.
+
+------------------------------------------------------------------------
+
+## Types of activities and outputs
+
+Academic output is broader than journal articles. Each type has different visibility mechanisms and different relevance depending on your field and career stage.
+
+### Research outputs
+
+- Journal articles and book chapters
+- Conference papers and proceedings
+- Preprints (arXiv, SocArXiv, EconStor, Zenodo...)
+- **Datasets** — increasingly required by funders and journals
+- **Software and code** — GitHub + Zenodo DOI for citability
+
+### Teaching materials
+
+Often underrepresented in CVs despite significant effort. Can be shared openly via Zenodo or institutional repositories and made citable with a DOI.
+
+### Project-related outputs
+
+- Grant outcomes and deliverables
+- Project websites
+- Policy reports and briefs
+
+### Other contributions
+
+- Peer review activity (trackable via ORCID and Web of Science)
+- Editorial roles
+- Supervision (theses, TFMs)
+- Public outreach: blog posts, media appearances, social media threads
+
+::: callout-tip
+**Key question for each output:** *Can someone find it, attribute it to you, and cite or reuse it?* If not, there is a visibility gap worth closing.
+:::

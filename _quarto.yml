@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Digital Presence for Researchers"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: 01-intro.qmd
+        text: "Introduction"
+      - href: 02-cv-identifiers.qmd
+        text: "CV & Identifiers"
+      - href: 03-digital-identity.qmd
+        text: "Digital Identity"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    number-sections: false

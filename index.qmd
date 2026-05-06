@@ -1,0 +1,24 @@
+---
+title: "Digital Identity for Researchers"
+subtitle: "Nicolás Robinson-García · University of Granada"
+---
+
+![](images/digital-identity.png){fig-align="center" width="409"}
+
+This workshop covers the essentials of managing your online presence as a researcher. We'll go from the basics (making sure your publications are correctly attributed to you) to the more strategic (deciding *when* and *how* to engage publicly with your work).
+
+## Structure
+
+| Part | Topic                                |
+|------|--------------------------------------|
+| 1    | Introduction: why visibility matters |
+| 2    | CV and researcher identifiers        |
+| 3    | Digital identity and open access     |
+
+## A note on priorities
+
+Not everything here applies equally to everyone nor work for every profile. Many of the tips I provide are either based on my one experience or that of colleagues from my field and other fields.
+
+## Materials
+
+Slides and links referenced during the session are embedded in each section. All materials are openly available upon attribution.
