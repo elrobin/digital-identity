@@ -52,7 +52,7 @@ accepted manuscript after 6–12 months. Many allow it immediately.
 ### What to deposit and where
 
 | Output type | Where to deposit | Example |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | Preprint / postprint | Zenodo, SocArXiv, arXiv (discipline-specific) | [Preprint](https://doi.org/10.5281/zenodo.14168888) - [Postprint](https://doi.org/10.1007/s11192-026-05582-5) |
 | Dataset | Zenodo, OSF, institutional repository | [Dataset](https://zenodo.org/records/13905465) |
 | Code / software | GitHub + Zenodo (for DOI and citability) | [Code](https://github.com/Wences91/humanities_patterns) |
